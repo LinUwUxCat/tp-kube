@@ -1,4 +1,7 @@
 # Captures d'écran
+<img width="1160" height="184" alt="image" src="https://github.com/user-attachments/assets/03f3148f-0d2f-4dde-a30e-6bc6d4a39128" />
+<img width="1588" height="367" alt="image" src="https://github.com/user-attachments/assets/1355505a-d0ab-4bfb-8ebc-ae0b517b4622" />
+
 
 # Réponses
 ## Optimisations dans le Dockerfile : 
